@@ -3,25 +3,25 @@
 简洁、可快速浏览的 AI 动态看板。每小时尝试更新；每条动态都标注原始来源、原文链接和可用的发布时间。内容只摘要，不替代原文。
 
 <!-- DASHBOARD:START -->
-**抓取时间：2026-11-17 21:37 UTC**  ·  GitHub 项目搜索窗口：最近 30 天（自 2026-10-18 起）
+**抓取时间：2026-11-18 03:27 UTC**  ·  GitHub 项目搜索窗口：最近 30 天（自 2026-10-19 起）
 
 ### Mac 电脑跑 AI
 
-- [yetone/magpie](https://github.com/yetone/magpie) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. · ⭐ 38,079（抓取时） · 最近推送：2026-11-17 21:29 UTC · 创建：2026-09-23 16:22 UTC
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) — Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and F · ⭐ 32,773（抓取时） · 最近推送：2026-11-14 14:05 UTC · 创建：2024-12-26 12:52 UTC
-- [jundot/omlx](https://github.com/jundot/omlx) — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar · ⭐ 23,699（抓取时） · 最近推送：2026-11-17 15:05 UTC · 创建：2026-02-13 14:13 UTC
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) — 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. · ⭐ 14,380（抓取时） · 最近推送：2026-11-17 21:33 UTC · 创建：2025-05-18 16:23 UTC
-- [makecindy/cindy](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 · ⭐ 10,257（抓取时） · 最近推送：2026-11-17 21:35 UTC · 创建：2026-07-22 17:49 UTC
+- [yetone/magpie](https://github.com/yetone/magpie) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. · ⭐ 38,222（抓取时） · 最近推送：2026-11-18 03:17 UTC · 创建：2026-09-23 16:22 UTC
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) — Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and F · ⭐ 32,777（抓取时） · 最近推送：2026-11-14 14:05 UTC · 创建：2024-12-26 12:52 UTC
+- [jundot/omlx](https://github.com/jundot/omlx) — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar · ⭐ 23,709（抓取时） · 最近推送：2026-11-18 03:24 UTC · 创建：2026-02-13 14:13 UTC
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) — 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. · ⭐ 14,382（抓取时） · 最近推送：2026-11-18 02:47 UTC · 创建：2025-05-18 16:23 UTC
+- [makecindy/cindy](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 · ⭐ 10,264（抓取时） · 最近推送：2026-11-18 03:26 UTC · 创建：2026-07-22 17:49 UTC
 
-来源查询：[GitHub Search API](https://api.github.com/search/repositories?q=macOS+LLM+pushed%3A%3E%3D2026-10-18&sort=stars&order=desc&per_page=5)
+来源查询：[GitHub Search API](https://api.github.com/search/repositories?q=macOS+LLM+pushed%3A%3E%3D2026-10-19&sort=stars&order=desc&per_page=5)
 
 ### 最新 AI 资讯
 
 - [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol) — OpenAI News · 发布：2026-11-17 17:45 UTC — Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.
+- [Introducing ChatGPT for Sales](https://openai.com/index/introducing-chatgpt-for-sales) — OpenAI News · 发布：2026-11-17 08:00 UTC — Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.
 - [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) — OpenAI News · 发布：2026-11-17 00:00 UTC — How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
-- [Introducing OpenAI for Chile](https://openai.com/index/introducing-openai-for-chile) — OpenAI News · 发布：2026-11-17 00:00 UTC — OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
 - [Astra for Law leads in legal intelligence](https://openai.com/index/astra-law-6-2) — OpenAI News · 发布：2026-11-17 00:00 UTC — Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.
-- [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) — OpenAI News · 发布：2026-11-16 17:00 UTC — We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
+- [Introducing OpenAI for Chile](https://openai.com/index/introducing-openai-for-chile) — OpenAI News · 发布：2026-11-17 00:00 UTC — OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
 - [Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter) — Hugging Face Blog · 发布：2026-11-16 00:00 UTC
 - [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place) — Hugging Face Blog · 发布：2026-11-13 18:00 UTC
 - [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench) — Hugging Face Blog · 发布：2026-11-13 17:02 UTC
@@ -30,23 +30,23 @@ RSS 来源：[Hugging Face Blog](https://huggingface.co/blog/feed.xml) · [OpenA
 
 ### GitHub 热门开源项目
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — The agent that grows with you · ⭐ 264,189（抓取时） · 最近推送：2026-11-17 21:37 UTC
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. · ⭐ 202,617（抓取时） · 最近推送：2026-11-17 21:30 UTC
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. · ⭐ 192,948（抓取时） · 最近推送：2026-10-29 11:59 UTC
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. · ⭐ 188,079（抓取时） · 最近推送：2026-11-17 21:23 UTC
-- [f/prompts.chat](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. · ⭐ 177,755（抓取时） · 最近推送：2026-11-17 03:12 UTC
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — The agent that grows with you · ⭐ 264,258（抓取时） · 最近推送：2026-11-18 03:07 UTC
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. · ⭐ 202,678（抓取时） · 最近推送：2026-11-18 02:46 UTC
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. · ⭐ 193,230（抓取时） · 最近推送：2026-10-29 11:59 UTC
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. · ⭐ 188,080（抓取时） · 最近推送：2026-11-18 03:27 UTC
+- [f/prompts.chat](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. · ⭐ 177,761（抓取时） · 最近推送：2026-11-18 03:14 UTC
 
-来源查询：[GitHub Search API](https://api.github.com/search/repositories?q=AI+LLM+pushed%3A%3E%3D2026-10-18&sort=stars&order=desc&per_page=5)
+来源查询：[GitHub Search API](https://api.github.com/search/repositories?q=AI+LLM+pushed%3A%3E%3D2026-10-19&sort=stars&order=desc&per_page=5)
 
 ### 热门 Agent / Skills
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory. · ⭐ 326,687（抓取时） · 最近推送：2026-11-17 11:53 UTC
-- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works. · ⭐ 319,242（抓取时） · 最近推送：2026-11-03 23:24 UTC
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · ⭐ 305,398（抓取时） · 最近推送：2026-11-17 06:41 UTC
-- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills · ⭐ 196,665（抓取时） · 最近推送：2026-11-16 14:22 UTC
-- [langgenius/dify](https://github.com/langgenius/dify) — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. · ⭐ 161,371（抓取时） · 最近推送：2026-11-17 17:21 UTC
+- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory. · ⭐ 326,847（抓取时） · 最近推送：2026-11-17 11:53 UTC
+- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works. · ⭐ 319,424（抓取时） · 最近推送：2026-11-03 23:24 UTC
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · ⭐ 305,625（抓取时） · 最近推送：2026-11-17 06:41 UTC
+- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills · ⭐ 196,800（抓取时） · 最近推送：2026-11-16 14:22 UTC
+- [langgenius/dify](https://github.com/langgenius/dify) — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. · ⭐ 161,382（抓取时） · 最近推送：2026-11-18 03:26 UTC
 
-来源查询：[GitHub Search API](https://api.github.com/search/repositories?q=agent+skills+pushed%3A%3E%3D2026-10-18&sort=stars&order=desc&per_page=5)
+来源查询：[GitHub Search API](https://api.github.com/search/repositories?q=agent+skills+pushed%3A%3E%3D2026-10-19&sort=stars&order=desc&per_page=5)
 
 ### 数据源状态
 
