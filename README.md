@@ -3,15 +3,15 @@
 简洁、可快速浏览的 AI 动态看板。每小时尝试更新；每条动态都标注原始来源、原文链接和可用的发布时间。内容只摘要，不替代原文。
 
 <!-- DASHBOARD:START -->
-**抓取时间：2026-11-20 02:08 UTC**  ·  GitHub 项目搜索窗口：最近 30 天（自 2026-10-21 起）
+**抓取时间：2026-11-20 11:06 UTC**  ·  GitHub 项目搜索窗口：最近 30 天（自 2026-10-21 起）
 
 ### Mac 电脑跑 AI
 
-- [yetone/magpie](https://github.com/yetone/magpie) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. · ⭐ 39,090（抓取时） · 最近推送：2026-11-20 01:56 UTC · 创建：2026-09-23 16:22 UTC
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) — Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and F · ⭐ 32,877（抓取时） · 最近推送：2026-11-14 14:05 UTC · 创建：2024-12-26 12:52 UTC
-- [jundot/omlx](https://github.com/jundot/omlx) — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar · ⭐ 23,758（抓取时） · 最近推送：2026-11-19 15:11 UTC · 创建：2026-02-13 14:13 UTC
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) — 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. · ⭐ 14,417（抓取时） · 最近推送：2026-11-20 02:08 UTC · 创建：2025-05-18 16:23 UTC
-- [makecindy/cindy](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 · ⭐ 10,306（抓取时） · 最近推送：2026-11-20 01:59 UTC · 创建：2026-07-22 17:49 UTC
+- [yetone/magpie](https://github.com/yetone/magpie) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. · ⭐ 39,391（抓取时） · 最近推送：2026-11-20 10:23 UTC · 创建：2026-09-23 16:22 UTC
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) — Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and F · ⭐ 32,902（抓取时） · 最近推送：2026-11-14 14:05 UTC · 创建：2024-12-26 12:52 UTC
+- [jundot/omlx](https://github.com/jundot/omlx) — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar · ⭐ 23,761（抓取时） · 最近推送：2026-11-20 10:47 UTC · 创建：2026-02-13 14:13 UTC
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) — 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. · ⭐ 14,425（抓取时） · 最近推送：2026-11-20 11:01 UTC · 创建：2025-05-18 16:23 UTC
+- [makecindy/cindy](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 · ⭐ 10,324（抓取时） · 最近推送：2026-11-20 11:05 UTC · 创建：2026-07-22 17:49 UTC
 
 来源查询：[GitHub Search API](https://api.github.com/search/repositories?q=macOS+LLM+pushed%3A%3E%3D2026-10-21&sort=stars&order=desc&per_page=5)
 
@@ -30,21 +30,21 @@ RSS 来源：[Hugging Face Blog](https://huggingface.co/blog/feed.xml) · [OpenA
 
 ### GitHub 热门开源项目
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — The agent that grows with you · ⭐ 264,769（抓取时） · 最近推送：2026-11-20 01:47 UTC
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. · ⭐ 204,300（抓取时） · 最近推送：2026-11-20 01:39 UTC
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. · ⭐ 194,878（抓取时） · 最近推送：2026-10-29 11:59 UTC
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. · ⭐ 188,110（抓取时） · 最近推送：2026-11-20 02:07 UTC
-- [f/prompts.chat](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. · ⭐ 177,902（抓取时） · 最近推送：2026-11-19 07:07 UTC
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — The agent that grows with you · ⭐ 264,866（抓取时） · 最近推送：2026-11-20 10:53 UTC
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. · ⭐ 204,712（抓取时） · 最近推送：2026-11-20 03:28 UTC
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. · ⭐ 195,202（抓取时） · 最近推送：2026-10-29 11:59 UTC
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. · ⭐ 188,120（抓取时） · 最近推送：2026-11-20 11:06 UTC
+- [f/prompts.chat](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. · ⭐ 177,936（抓取时） · 最近推送：2026-11-20 07:08 UTC
 
 来源查询：[GitHub Search API](https://api.github.com/search/repositories?q=AI+LLM+pushed%3A%3E%3D2026-10-21&sort=stars&order=desc&per_page=5)
 
 ### 热门 Agent / Skills
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory. · ⭐ 328,182（抓取时） · 最近推送：2026-11-19 13:35 UTC
-- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works. · ⭐ 322,126（抓取时） · 最近推送：2026-11-03 23:24 UTC
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · ⭐ 307,317（抓取时） · 最近推送：2026-11-20 01:13 UTC
-- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills · ⭐ 197,729（抓取时） · 最近推送：2026-11-16 14:22 UTC
-- [langgenius/dify](https://github.com/langgenius/dify) — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. · ⭐ 161,529（抓取时） · 最近推送：2026-11-20 02:05 UTC
+- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory. · ⭐ 328,489（抓取时） · 最近推送：2026-11-19 13:35 UTC
+- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works. · ⭐ 322,455（抓取时） · 最近推送：2026-11-03 23:24 UTC
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · ⭐ 307,490（抓取时） · 最近推送：2026-11-20 01:13 UTC
+- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills · ⭐ 197,873（抓取时） · 最近推送：2026-11-16 14:22 UTC
+- [langgenius/dify](https://github.com/langgenius/dify) — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. · ⭐ 161,559（抓取时） · 最近推送：2026-11-20 11:02 UTC
 
 来源查询：[GitHub Search API](https://api.github.com/search/repositories?q=agent+skills+pushed%3A%3E%3D2026-10-21&sort=stars&order=desc&per_page=5)
 
